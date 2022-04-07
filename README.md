@@ -1,2 +1,0 @@
-# Setgel
-My projects
